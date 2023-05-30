@@ -6,6 +6,6 @@ export default function Home() {
 return (
   <main>
     <Title>Hello World</Title>
-    <iframe src="www.vg.no" width="100%" height="500px"></iframe>
+    <iframe src="https://www.vg.no/" width="100%" height="500px"></iframe>
   </main>
 );
